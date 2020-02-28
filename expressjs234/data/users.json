@@ -1,0 +1,32 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Sreeja",
+    "password": "reddy",
+    "profession": "student"
+  },
+  "2": {
+    "id": 2,
+    "name": "Manish",
+    "password": "bunny",
+    "profession": "TechincalLead"
+  },
+  "3": {
+    "id": 3,
+    "name": "Tilak",
+    "password": "tilak",
+    "profession": "Architect"
+  },
+  "4": {
+    "id": 4,
+    "name": "Sandhya",
+    "password": "rani8",
+    "profession": "Teamhead"
+  },
+  "5": {
+    "id": 5,
+    "name": "Vishal",
+    "password": "12346",
+    "profession": "HR"
+  }
+}
